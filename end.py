@@ -1,0 +1,5 @@
+print('i',end='-')
+print('n',end='-')
+print('d',end='-')
+print('i',end='-')
+print('a',end='-')
