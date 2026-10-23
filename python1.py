@@ -1,0 +1,5 @@
+print("*")
+print("*","*",end="\n")
+print("I","N","D","I","A",sep="-")
+print("*","*",end="\n")
+print("*")
